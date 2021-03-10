@@ -1,7 +1,7 @@
 url: $BA_PLUGIN_API_URL
-status: down
+status: up
 code: 401
-responseTime: 395
-lastUpdated: 2021-03-10T21:02:44.672Z
+responseTime: 426
+lastUpdated: 2021-03-10T21:05:15.843Z
 startTime: Wed Mar 10 2021 20:58:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
