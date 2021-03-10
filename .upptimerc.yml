@@ -10,6 +10,9 @@ sites:
     url: $BA_WEB_API_URL
   - name: Plugin API
     url: $BA_PLUGIN_API_URL
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Internal systems monitoring
     url: $BA_MONITORING_URL
 
