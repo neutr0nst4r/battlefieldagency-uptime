@@ -4,8 +4,14 @@ repo: battlefieldagency-uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Battlefield Agency Website
+  - name: Website
     url: https://battlefield.agency
+  - name: Web API
+    url: $BA_WEB_API_URL
+  - name: Plugin API
+    url: $BA_PLUGIN_API_URL
+  - name: Internal systems monitoring
+    url: $BA_MONITORING_URL
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -13,14 +19,14 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: BA Status
+  introTitle: "Battlefield Agency System Status"
+  introMessage: Uptime overview of Battlefield Agency systems - Protect your Battlefield server from cheaters & gain insights now at [battlefield.agency](https://battlefield.agency).
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://battlefield.agency
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
