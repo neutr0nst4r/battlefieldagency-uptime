@@ -18,7 +18,7 @@ status-website:
   cname: status.battlefield.agency
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/neutr0nst4r/battlefieldagency-uptime/master/assets/ba-logo.png
   name: BA Status
   introTitle: "Battlefield Agency System Status"
   introMessage: Uptime overview of Battlefield Agency systems - Protect your Battlefield server from cheaters & gain insights now at [battlefield.agency](https://battlefield.agency).
