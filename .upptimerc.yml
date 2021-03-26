@@ -13,10 +13,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: EU Hardware
-    url: $BA_EU_HW_IP
-  - name: US Hardware
-    url: $BA_US_HW_IP
   - name: Internal systems monitoring
     url: $BA_MONITORING_URL
 
