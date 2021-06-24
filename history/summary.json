@@ -58,17 +58,17 @@
     "url": "$BA_MONITORING_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "internal-systems-monitoring",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 988,
-    "timeDay": 900,
-    "timeWeek": 933,
+    "time": 987,
+    "timeDay": 920,
+    "timeWeek": 934,
     "timeMonth": 921,
-    "timeYear": 988,
+    "timeYear": 987,
     "dailyMinutesDown": {}
   }
 ]
