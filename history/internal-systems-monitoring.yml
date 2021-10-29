@@ -1,7 +1,7 @@
 url: $BA_MONITORING_URL
 status: up
 code: 200
-responseTime: 1763
-lastUpdated: 2021-10-28T23:17:14.516Z
+responseTime: 600
+lastUpdated: 2021-10-29T23:17:28.253Z
 startTime: Wed Mar 10 2021 20:58:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
