@@ -1,7 +1,7 @@
 url: $BA_WEB_API_URL
-status: up
-code: 200
-responseTime: 19313
-lastUpdated: 2022-10-27T08:46:27.230Z
+status: down
+code: 502
+responseTime: 22358
+lastUpdated: 2022-10-27T08:57:39.097Z
 startTime: Wed Mar 10 2021 20:58:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
