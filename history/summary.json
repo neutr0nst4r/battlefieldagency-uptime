@@ -22,7 +22,7 @@
     "url": "$BA_WEB_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "web-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 616,
     "timeDay": 383,
-    "timeWeek": 410,
+    "timeWeek": 411,
     "timeMonth": 391,
     "timeYear": 732,
     "dailyMinutesDown": {}
